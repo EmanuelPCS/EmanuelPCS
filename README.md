@@ -38,7 +38,6 @@
 <div align="center"> 
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=EmanuelPCS&show_icons=true&count_private=true&hide_border=true&title_color=009bdb&icon_color=009bdb&text_color=c9d1d9&bg_color=0d1117" alt="Emanuel Saraiva github stats" /> 
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EmanuelPCS&layout=compact&hide_border=true&title_color=009bdb&text_color=009bdb&bg_color=0d1117" />
-  <img alt="snake eating my contribution" src="https://github.com/EmanuelPCS/EmanuelPCS/blob/output/github-contribution-grid-snake.svg" >
-</div>
+<img alt="snake eating my contributions" src="https://raw.githubusercontent.com/emanuelpcs/emanuelpcs/output/github-contribution-grid-snake.svg" /></div>
 <br>
 <img width=100% src="https://capsule-render.vercel.app/api?type=cylinder&color=005577&height=100&section=header"/>
