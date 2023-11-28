@@ -3,16 +3,16 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=4169e1&size=35&center=true&vCenter=true&width=1000&lines=Hi,+My+name+is+Emanuel+Saraiva;I'm+from+Portugal;)](https://git.io/typing-svg)
 
 
-🎓 Studying Computer Engineering at ISEC </br>
+<p align="center">🎓 Studying Computer Engineering at ISEC </p>
 <hr>
 
-<h4 align="left">📫 Contact Info:</h4>
-
+<h4 align="center">📫 Contact Info:</h4>
+<p align="center">
 <a href="mailto:emanuel.pc.saraiva@gmail.com" alt="Gmail">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" /></a>
 <a href="https://www.linkedin.com/in/emanuelsaraiva/" alt="Linkedin">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<br><br>
+<br></p>
     <hr>
  
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
