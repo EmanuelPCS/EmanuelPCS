@@ -2,7 +2,6 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=4169e1&size=35&center=true&vCenter=true&width=1000&lines=Hi,+My+name+is+Emanuel+Saraiva;I'm+from+Portugal;)](https://git.io/typing-svg)
 
-
 <p align="center">🎓 Studying Computer Engineering at ISEC </p>
 <hr>
 
