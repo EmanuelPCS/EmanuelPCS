@@ -66,7 +66,7 @@
   <h2>🐍 Contributions 🐍</h2>
   
   <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/emanuelpcs/emanuelpcs/output/github-contribution-grid-snake.svg" />
-  
+
   <br/>
 </div>
 
